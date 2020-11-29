@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\1 курс\АП\8.2\8.2\Source.cpp(8,16): warning C4018: '<': signed/unsigned mismatch
+D:\1 курс\АП\8.2\8.2\Source.cpp(11,10): warning C4018: '<': signed/unsigned mismatch
+D:\1 курс\АП\8.2\8.2\Source.cpp(13,13): warning C4018: '<': signed/unsigned mismatch
+D:\1 курс\АП\8.2\8.2\Source.cpp(15,16): warning C4018: '<': signed/unsigned mismatch
+D:\1 курс\АП\8.2\8.2\Source.cpp(28,7): warning C4101: 'b': unreferenced local variable
+  8.2.vcxproj -> D:\1 курс\АП\8.2\Debug\8.2.exe
